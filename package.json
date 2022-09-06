@@ -1,0 +1,15 @@
+{
+  "name": "jktravels",
+  "version": "1.0.0",
+  "description": "A tourism website",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.2",
+    "nodemon": "^2.0.19"
+  }
+}
